@@ -272,18 +272,12 @@ div.paper-card:hover {
 }
 
 /* Social icons: sized, theme-colored, lavender on hover */
-.social .contact-icons {
-  font-size: 1rem;
-}
-
+/* Social icons: small, lavender, no hover change */
 .social .contact-icons a,
-.social .contact-icons a i {
-  color: var(--global-text-color);
-}
-
-.social .contact-icons a:hover,
-.social .contact-icons a:hover i {
-  color: var(--global-theme-color);
+.contact-icons a,
+.contact-icons a i {
+  font-size: 1rem !important;
+  color: var(--global-theme-color) !important;
 }
 
 /* icons under the profile photo */
