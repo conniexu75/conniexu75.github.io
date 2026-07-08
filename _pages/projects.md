@@ -14,11 +14,6 @@ horizontal: false
 **[Squeezed at the Bench: Input Price Shocks and the Production of Science](/assets/pdf/jmp.pdf)**
 (with [Ruby Zhang](https://example.com/))
 
-<details>
-<summary>Abstract</summary>
-Paste the abstract text here as one plain paragraph.
-</details>
-
 ## Selected Work in Progress
 
 **[Person and Place Effects in Scientific Discovery](https://www.nber.org/papers/w33996)**
@@ -31,6 +26,10 @@ Media coverage: [Science](https://www.science.org/content/article/large-study-sc
 
 **The Ripple Effects of Health Care Entry Regulation**
 (with [Parker Rogers](https://sites.google.com/site/parkerrogersecon) and [Yunan Ji](https://www.yunanji.com/))
+<details>
+<summary>Abstract</summary>
+We examine how regulatory entry costs for healthcare inputs shape market structure, pricing, and bargaining dynamics throughout the healthcare supply chain. Using a difference-in-differences approach exploiting the FDA’s 2016 removal of pre-market clearance requirements for certain medical devices, we find increased manufacturer entry and lower negotiated device prices between manufacturers and hospitals. These reduced input prices propagate downstream, modestly decreasing procedure prices negotiated with insurers and ultimately lowering patient out-of-pocket costs. We then develop and will estimate a structural model that jointly captures manufacturer entry decisions and simultaneous bargaining between hospitals, manufacturers, and insurers. Our proposed counterfactual simulations will quantify how tightening entry regulations or increasing horizontal consolidation would ripple through the supply chain. 
+</details>
 
 
 
