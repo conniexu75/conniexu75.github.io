@@ -14,19 +14,15 @@ horizontal: false
 **Squeezed at the Bench: Input Price Shocks and the Production of Science**
 (with [Ruby Zhang](https://example.com/))
 
-## Working Papers
 
-**Place Effects on Scientific Productivity: Evidence from Researcher Moves**
+## Selected Work in Progress
+
+**Person and Place Effects in Scientific Discovery**
 (with [Amitabh Chandra](https://www.hks.harvard.edu/faculty/amitabh-chandra))
 
-[One-paragraph abstract here.]
-
-## Work in Progress
 
 **The Ripple Effects of Health Care Entry Regulation**
 (with [Parker Rogers](https://sites.google.com/site/parkerrogersecon) and [Yunan Ji](https://www.yunanji.com/))
-
-[Abstract here.]
 
 <!-- pages/projects.md -->
 <div class="projects">
