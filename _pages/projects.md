@@ -11,7 +11,7 @@ horizontal: false
 
 ## Job Market Paper
 
-**[Squeezed at the Bench: Input Price Shocks and the Production of Science](/assets/pdf/jmp.pdf)**
+**[Scientific Input Costs in University Life Sciences Research](/assets/pdf/jmp.pdf)**
 (with [Ruby Zhang](https://www.economics.harvard.edu/people/ruby-ruishan-zhang))
 
 
