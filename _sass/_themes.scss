@@ -5,3 +5,7 @@ html[data-theme="light"] {
 html[data-theme="dark"] {
   --global-theme-color: #9a8df0;
 }
+.navbar-brand,
+.navbar-brand span {
+  font-weight: 700 !important;
+}
