@@ -1,9 +1,18 @@
 ---
-layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
-nav_order: 3
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-redirect_to: /assets/pdf/example_pdf.pdf
+nav_order: 2
+layout: null
 ---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; url=/assets/pdf/cv.pdf">
+  <script>window.location.replace("/assets/pdf/cv.pdf");</script>
+  <title>CV</title>
+</head>
+<body>
+  <p><a href="/assets/pdf/cv.pdf">Click here if you are not redirected.</a></p>
+</body>
+</html>
