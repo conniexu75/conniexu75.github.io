@@ -271,3 +271,18 @@ details.paper-card summary:hover,
 div.paper-card:hover {
   border-color: var(--global-theme-color);
 }
+
+/* Social icons: small, black, lavender on hover */
+.social .contact-icons {
+  font-size: 1rem;
+}
+
+.social .contact-icons a,
+.social .contact-icons a i {
+  color: var(--global-text-color);
+}
+
+.social .contact-icons a:hover,
+.social .contact-icons a:hover i {
+  color: var(--global-theme-color);
+}
