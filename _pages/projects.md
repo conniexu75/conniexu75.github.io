@@ -12,9 +12,12 @@ horizontal: false
 ## Job Market Paper
 
 **[Squeezed at the Bench: Input Price Shocks and the Production of Science](/assets/pdf/jmp.pdf)**
-(with [Ruby Zhang](https://example.com/))
+(with [Ruby Zhang](https://www.economics.harvard.edu/people/ruby-ruishan-zhang))
+
 
 ## Selected Work in Progress
+**The Returns to Science of Centrally Provisioned GPUs and Optimal Allocation**
+(with [Ruby Zhang](https://www.economics.harvard.edu/people/ruby-ruishan-zhang))
 
 **[Person and Place Effects in Scientific Discovery](https://www.nber.org/papers/w33996)**
 (with [Amitabh Chandra](https://www.hks.harvard.edu/faculty/amitabh-chandra))
