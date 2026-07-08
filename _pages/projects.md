@@ -56,6 +56,7 @@ areas of fundamental science.</p>
 <summary>
 <b>The Ripple Effects of Health Care Entry Regulation</b><br>
 (with <a href="https://sites.google.com/site/parkerrogersecon">Parker Rogers</a> and <a href="https://www.yunanji.com/">Yunan Ji</a>)
+<span class="card-foot"><span class="abs-hint"></span> &nbsp;·&nbsp</span>
 </summary>
 <div class="abstract-body">
 <p>We examine how regulatory entry costs for healthcare inputs shape market structure, pricing, and bar-
