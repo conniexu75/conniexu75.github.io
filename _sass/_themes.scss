@@ -286,3 +286,12 @@ div.paper-card:hover {
 .social .contact-icons a:hover i {
   color: var(--global-theme-color);
 }
+
+/* Justify about-page text and abstracts */
+.post-content p {
+  text-align: justify;
+}
+
+details.paper-card .abstract-body p {
+  text-align: justify;
+}
