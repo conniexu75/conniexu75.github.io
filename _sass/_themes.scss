@@ -271,20 +271,28 @@ div.paper-card:hover {
   border-color: var(--global-theme-color);
 }
 
-/* Social icons: small, lavender, no hover change */
+/* Social icons: slightly bigger, lavender, no hover change */
 i.ai-google-scholar,
 i.fa-linkedin,
 i.fa-envelope {
   font-size: 1.2rem !important;
   color: var(--global-theme-color) !important;
 }
-/* icons under the profile photo */
-.profile .social {
-  text-align: center;
-  margin-top: 0.5rem;
+
+/* pull icons up close under the photo, centered */
+.profile figure {
+  margin-bottom: 0.25rem;
 }
 
-/* Justify body text and abstracts */
-p {
-  text-align: justify !important;
+.profile .more-info {
+  display: none;
+}
+
+.profile .social {
+  margin-top: 0;
+  text-align: center;
+}
+
+.contact-icons a {
+  margin: 0 0.3rem;
 }
