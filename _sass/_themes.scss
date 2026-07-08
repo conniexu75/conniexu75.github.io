@@ -288,10 +288,15 @@ div.paper-card:hover {
 }
 
 /* Justify about-page text and abstracts */
-.post-content p {
+main p {
   text-align: justify;
 }
 
 details.paper-card .abstract-body p {
   text-align: justify;
+}
+/* icons under the profile photo */
+.profile .social {
+  text-align: center;   /* centered under the photo; use right if you prefer flush-right */
+  margin-top: 0.5rem;
 }
