@@ -222,16 +222,49 @@ h1.post-title {
   font-weight: 700 !important;
 }
 
-/* Paper cards on the research page */
-.paper-card {
+/* Clickable paper cards */
+details.paper-card,
+div.paper-card {
   background: var(--global-card-bg-color);
   border: 1px solid var(--global-divider-color);
   border-radius: 8px;
-  padding: 1.25rem 1.5rem;
   margin-bottom: 1.5rem;
 }
 
-.paper-card p:last-child,
-.paper-card details:last-child {
-  margin-bottom: 0;
+div.paper-card {
+  padding: 1.25rem 1.5rem;
+}
+
+details.paper-card summary {
+  padding: 1.25rem 1.5rem;
+  cursor: pointer;
+  list-style: none; /* hide default triangle */
+}
+
+details.paper-card summary::-webkit-details-marker {
+  display: none;
+}
+
+/* subtle "there's more here" affordance */
+details.paper-card summary::after {
+  content: "Abstract ▾";
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--global-theme-color);
+}
+
+details.paper-card[open] summary::after {
+  content: "Abstract ▴";
+}
+
+details.paper-card .abstract-body {
+  padding: 0 1.5rem 1.25rem;
+  border-top: 1px solid var(--global-divider-color);
+  padding-top: 1rem;
+}
+
+details.paper-card summary:hover,
+div.paper-card:hover {
+  border-color: var(--global-theme-color);
 }
