@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate in Health Policy and Economics, Harvard University
+subtitle: 
 
 profile:
   align: right
