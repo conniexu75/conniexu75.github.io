@@ -206,7 +206,6 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
-
 /*******************************************************************************
  * Local customizations (Connie)
  ******************************************************************************/
@@ -238,14 +237,13 @@ div.paper-card {
 details.paper-card summary {
   padding: 1.25rem 1.5rem;
   cursor: pointer;
-  list-style: none; /* hide default triangle */
+  list-style: none;
 }
 
 details.paper-card summary::-webkit-details-marker {
   display: none;
 }
 
-/* subtle "there's more here" affordance */
 /* card footer row: abstract hint + media coverage on one line */
 details.paper-card .card-foot {
   display: block;
@@ -261,6 +259,7 @@ details.paper-card .abs-hint::after {
 details.paper-card[open] .abs-hint::after {
   content: "Abstract ▴";
 }
+
 details.paper-card .abstract-body {
   padding: 0 1.5rem 1.25rem;
   border-top: 1px solid var(--global-divider-color);
@@ -272,9 +271,9 @@ div.paper-card:hover {
   border-color: var(--global-theme-color);
 }
 
-/* Social icons: small, black, lavender on hover */
+/* Social icons: sized, theme-colored, lavender on hover */
 .social .contact-icons {
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 .social .contact-icons a,
@@ -287,6 +286,12 @@ div.paper-card:hover {
   color: var(--global-theme-color);
 }
 
+/* icons under the profile photo */
+.profile .social {
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
 /* Justify about-page text and abstracts */
 main p {
   text-align: justify;
@@ -294,9 +299,4 @@ main p {
 
 details.paper-card .abstract-body p {
   text-align: justify;
-}
-/* icons under the profile photo */
-.profile .social {
-  text-align: center;   /* centered under the photo; use right if you prefer flush-right */
-  margin-top: 0.5rem;
 }
