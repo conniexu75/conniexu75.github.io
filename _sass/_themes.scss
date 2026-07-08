@@ -284,11 +284,7 @@ i.fa-envelope {
   margin-top: 0.5rem;
 }
 
-/* Justify about-page text and abstracts */
-main p {
-  text-align: justify;
-}
-
-details.paper-card .abstract-body p {
-  text-align: justify;
+/* Justify body text and abstracts */
+p {
+  text-align: justify !important;
 }
