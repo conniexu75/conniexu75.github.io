@@ -23,26 +23,23 @@ nav_order: 2
 (with [Ruby Zhang](https://www.economics.harvard.edu/people/ruby-ruishan-zhang))
 </div>
 
-<div class="paper-card" markdown="1">
-**[Person and Place Effects in Scientific Discovery](https://www.nber.org/papers/w33996)**
-
-(with [Amitabh Chandra](https://www.hks.harvard.edu/faculty/amitabh-chandra))
-
-<details>
-<summary>Abstract</summary>
-<p>How much of a scientist's research output is attributable to individual talent... [keep your full abstract here]</p>
+<details class="paper-card">
+<summary>
+<b><a href="https://www.nber.org/papers/w33996">Person and Place Effects in Scientific Discovery</a></b><br>
+(with <a href="https://www.hks.harvard.edu/faculty/amitabh-chandra">Amitabh Chandra</a>)
+</summary>
+<div class="abstract-body">
+<p>How much of a scientist's research output is attributable to individual talent... [full abstract]</p>
+<p>Media coverage: <a href="https://www.science.org/content/article/large-study-scientists-who-move-their-labs-reveals-how-location-drives-productivity">Science</a></p>
+</div>
 </details>
 
-Media coverage: [Science](https://www.science.org/content/article/large-study-scientists-who-move-their-labs-reveals-how-location-drives-productivity)
+<details class="paper-card">
+<summary>
+<b>The Ripple Effects of Health Care Entry Regulation</b><br>
+(with <a href="https://sites.google.com/site/parkerrogersecon">Parker Rogers</a> and <a href="https://www.yunanji.com/">Yunan Ji</a>)
+</summary>
+<div class="abstract-body">
+<p>We examine how regulatory entry costs... [full abstract]</p>
 </div>
-
-<div class="paper-card" markdown="1">
-**The Ripple Effects of Health Care Entry Regulation**
-
-(with [Parker Rogers](https://sites.google.com/site/parkerrogersecon) and [Yunan Ji](https://www.yunanji.com/))
-
-<details>
-<summary>Abstract</summary>
-<p>We examine how regulatory entry costs... [keep your full abstract here]</p>
 </details>
-</div>
