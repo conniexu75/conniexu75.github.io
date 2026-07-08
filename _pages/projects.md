@@ -11,7 +11,7 @@ horizontal: false
 
 ## Job Market Paper
 
-**[Scientific Input Costs in University Life Sciences Research](/assets/pdf/jmp.pdf)**
+**[Scientific Input Costs in University Life Sciences Research]**
 (with [Ruby Zhang](https://www.economics.harvard.edu/people/ruby-ruishan-zhang))
 
 
