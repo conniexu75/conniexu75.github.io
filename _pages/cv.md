@@ -1,8 +1,8 @@
 ---
 permalink: /cv/
-title: cv
+title: CV
 nav: true
-nav_order: 2
+nav_order: 3
 layout: null
 ---
 <!DOCTYPE html>
