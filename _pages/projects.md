@@ -27,10 +27,10 @@ nav_order: 2
 <summary>
 <b><a href="https://www.nber.org/papers/w33996">Person and Place Effects in Scientific Discovery</a></b><br>
 (with <a href="https://www.hks.harvard.edu/faculty/amitabh-chandra">Amitabh Chandra</a>)
+<span class="card-foot"><span class="abs-hint"></span> &nbsp;·&nbsp; Media coverage: <a href="https://www.science.org/content/article/large-study-scientists-who-move-their-labs-reveals-how-location-drives-productivity">Science</a></span>
 </summary>
 <div class="abstract-body">
-<p>How much of a scientist's research output is attributable to individual talent... [full abstract]</p>
-<p>Media coverage: <a href="https://www.science.org/content/article/large-study-scientists-who-move-their-labs-reveals-how-location-drives-productivity">Science</a></p>
+<p>[full abstract]</p>
 </div>
 </details>
 
