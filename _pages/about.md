@@ -24,6 +24,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello! I'm a PhD candidate in health policy and economics at [Harvard](https://healthpolicy.fas.harvard.edu/), where I am supported by the [National Institute of Aging](https://www.nber.org/agingtraining) and the [National Science Foundation](https://www.nsfgrfp.org/). I study topics in health economics and the economics of science, with a particular focus on innovation in the life sciences.
+Hello! I'm a PhD candidate in health policy and economics at [Harvard](https://healthpolicy.fas.harvard.edu/), where I am supported by the [National Institute of Aging](https://www.nber.org/agingtraining) and the [National Science Foundation](https://www.nsfgrfp.org/). 
+
+I study topics in health economics and the economics of science, with a particular focus on innovation in the life sciences.
 
 I graduated from the University of Chicago in 2019 with a BA in Economics and a BA in Statistics. Before starting my PhD, I was a pre-doctoral fellow at [MIT](https://economics.mit.edu/). 
