@@ -28,4 +28,6 @@ Hello! I'm a PhD candidate in health policy and economics at [Harvard](https://h
 
 I study topics in health economics and the economics of science, with a particular focus on innovation in the life sciences.
 
+**I will be on the 2026-2027 job market.**
+
 I graduated from the University of Chicago in 2019 with a BA in Economics and a BA in Statistics. Before starting my PhD, I was a pre-doctoral fellow at [MIT](https://economics.mit.edu/). 
