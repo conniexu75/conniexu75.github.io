@@ -9,6 +9,25 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+## Job Market Paper
+
+**Squeezed at the Bench: Input Price Shocks and the Production of Science**
+(with [Ruby Zhang](https://example.com/))
+
+## Working Papers
+
+**Place Effects on Scientific Productivity: Evidence from Researcher Moves**
+(with [Amitabh Chandra](https://www.hks.harvard.edu/faculty/amitabh-chandra))
+
+[One-paragraph abstract here.]
+
+## Work in Progress
+
+**The Ripple Effects of Health Care Entry Regulation**
+(with [Parker Rogers](https://sites.google.com/site/parkerrogersecon) and [Yunan Ji](https://www.yunanji.com/))
+
+[Abstract here.]
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
