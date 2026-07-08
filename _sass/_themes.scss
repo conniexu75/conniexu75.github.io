@@ -246,18 +246,21 @@ details.paper-card summary::-webkit-details-marker {
 }
 
 /* subtle "there's more here" affordance */
-details.paper-card summary::after {
-  content: "Abstract ▾";
+/* card footer row: abstract hint + media coverage on one line */
+details.paper-card .card-foot {
   display: block;
   margin-top: 0.5rem;
   font-size: 0.85rem;
+}
+
+details.paper-card .abs-hint::after {
+  content: "Abstract ▾";
   color: var(--global-theme-color);
 }
 
-details.paper-card[open] summary::after {
+details.paper-card[open] .abs-hint::after {
   content: "Abstract ▴";
 }
-
 details.paper-card .abstract-body {
   padding: 0 1.5rem 1.25rem;
   border-top: 1px solid var(--global-divider-color);
