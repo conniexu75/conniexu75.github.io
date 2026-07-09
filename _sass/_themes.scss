@@ -264,6 +264,7 @@ details.paper-card .abstract-body {
   padding: 0 1.5rem 1.25rem;
   border-top: 1px solid var(--global-divider-color);
   padding-top: 1rem;
+  text-align: justify;
 }
 
 details.paper-card summary:hover,
@@ -275,13 +276,13 @@ div.paper-card:hover {
 i.ai-google-scholar,
 i.fa-linkedin,
 i.fa-envelope {
-  font-size: 1.4rem !important;
+  font-size: 2.1rem !important;
 }
 
 
 /* pull icons up close under the photo, centered */
 .profile figure {
-  margin-bottom: 0.125rem;
+  margin-bottom: 0;
 }
 
 .profile .more-info {
@@ -289,7 +290,7 @@ i.fa-envelope {
 }
 
 .profile .social {
-  margin-top: -0.4rem;
+  margin-top: -0.9rem;
   text-align: center;
 }
 
