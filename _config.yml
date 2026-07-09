@@ -107,7 +107,7 @@ analytics:
   # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
   # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
   google: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
-  cronitor:  #RUM analytics site ID (format:  541652c34a9df867683d0c70aab36a36)
+  cronitor:  541652c34a9df867683d0c70aab36a36 #RUM analytics site ID (format:  )
   pirsch: # your Pirsch analytics site ID (length 32 characters)
   openpanel: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
