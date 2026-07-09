@@ -8,8 +8,8 @@ layout: null
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="refresh" content="0; url=/assets/pdf/cv.pdf">
-  <script>window.location.replace("/assets/pdf/cv.pdf");</script>
+  <meta http-equiv="refresh" content="0; url=/assets/pdf/cx_resume.pdf">
+  <script>window.location.replace("/assets/pdf/cx_resume.pdf");</script>
   <title>CV</title>
 </head>
 <body>
