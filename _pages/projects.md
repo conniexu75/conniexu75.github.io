@@ -15,7 +15,7 @@ nav_order: 2
 (with [Ruby Zhang](https://www.economics.harvard.edu/people/ruby-ruishan-zhang))
 </div>
 
-## Selected Work in Progress
+## Selected Works in Progress
 
 <div class="paper-card" markdown="1">
 **The Returns to Science of Centrally Provisioned GPUs and Optimal Allocation**
