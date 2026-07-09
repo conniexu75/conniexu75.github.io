@@ -34,4 +34,6 @@ I study topics in health economics and the economics of science, with a particul
 
 I graduated from the University of Chicago in 2019 with a BA in Economics and a BA in Statistics. Before starting my PhD, I was a pre-doctoral fellow at [MIT](https://economics.mit.edu/). 
 
+Email: graeme.peterson@yale.edu
+
 </div>
