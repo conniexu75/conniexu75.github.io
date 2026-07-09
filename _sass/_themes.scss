@@ -271,11 +271,15 @@ div.paper-card:hover {
   border-color: var(--global-theme-color);
 }
 
-/* Social icons: slightly bigger, lavender, no hover change */
+/* Social icons: slightly bigger, black, lavender on hover */
 i.ai-google-scholar,
 i.fa-linkedin,
 i.fa-envelope {
   font-size: 1.2rem !important;
+  color: var(--global-text-color) !important;
+}
+
+.contact-icons a:hover i {
   color: var(--global-theme-color) !important;
 }
 
