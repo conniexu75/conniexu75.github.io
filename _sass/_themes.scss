@@ -275,17 +275,13 @@ div.paper-card:hover {
 i.ai-google-scholar,
 i.fa-linkedin,
 i.fa-envelope {
-  font-size: 1.2rem !important;
-  color: var(--global-text-color) !important;
+  font-size: 1.4rem !important;
 }
 
-.contact-icons a:hover i {
-  color: var(--global-theme-color) !important;
-}
 
 /* pull icons up close under the photo, centered */
 .profile figure {
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.125rem;
 }
 
 .profile .more-info {
@@ -293,7 +289,7 @@ i.fa-envelope {
 }
 
 .profile .social {
-  margin-top: 0;
+  margin-top: -0.4rem;
   text-align: center;
 }
 
