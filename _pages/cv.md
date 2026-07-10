@@ -4,6 +4,7 @@ title: CV
 nav: true
 nav_order: 3
 layout: null
+new_tab: true
 ---
 <!DOCTYPE html>
 <html>
