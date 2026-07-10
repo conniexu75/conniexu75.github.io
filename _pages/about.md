@@ -26,13 +26,13 @@ latest_posts:
 ---
 <div style="text-align: justify;" markdown="1">
 
-Hello! I'm a PhD candidate in health policy and economics at [Harvard University](https://healthpolicy.fas.harvard.edu/), where I am supported by the [National Institute on Aging](https://www.nber.org/agingtraining) and the [National Science Foundation](https://www.nsfgrfp.org/). I am an [NBER Fellow for Fiscal and Economic Effects of Innovation and Productivity Policies](https://www.nber.org/programs-projects/projects-and-centers/8750-graduate-and-early-career-fellowships-fiscal-and-economic-effects-innovation-and-productivity) and a graduate affiliate of the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/). 
-
-I study topics in health economics and the economics of science, with a particular focus on innovation in the life sciences.
+Hello! I'm a PhD candidate in health policy and economics at [Harvard University](https://healthpolicy.fas.harvard.edu/). I study topics in health economics and the economics of science, with a particular focus on innovation in the life sciences.
 
 **I will be on the 2026-2027 job market.**
 
-I graduated from the University of Chicago in 2019 with a BA in Economics and a BA in Statistics. Before starting my PhD, I was a pre-doctoral fellow at [MIT](https://economics.mit.edu/). 
+My research is supported by the [National Institute on Aging](https://www.nber.org/agingtraining) and the [National Science Foundation](https://www.nsfgrfp.org/). I am an [NBER Fellow for Fiscal and Economic Effects of Innovation and Productivity Policies](https://www.nber.org/programs-projects/projects-and-centers/8750-graduate-and-early-career-fellowships-fiscal-and-economic-effects-innovation-and-productivity) and a graduate affiliate of the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/). 
+
+Previously, I was a pre-doctoral fellow at [MIT](https://economics.mit.edu/). I graduated from the University of Chicago in 2019 with a BA in Economics and a BA in Statistics. 
 
 You can reach me at conniexu@g.harvard.edu
 
