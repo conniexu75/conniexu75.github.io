@@ -11,7 +11,7 @@ layout: null
 <head>
   <meta charset="utf-8">
   <title>CV — Connie Xu</title>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-YERNZ8JPQ4"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
