@@ -10,6 +10,7 @@ layout: null
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CV — Connie Xu</title>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-YERNZ8JPQ4"></script>
   <script>
@@ -25,6 +26,24 @@ layout: null
   <noscript>
     <meta http-equiv="refresh" content="0; url=/assets/pdf/cx_resume.pdf">
   </noscript>
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #ffffff;
+      font-family: "Roboto", -apple-system, sans-serif;
+      color: #404040;
+    }
+    .box { text-align: center; }
+    .name { font-weight: 700; font-size: 1.1rem; margin-bottom: 0.4rem; }
+    .msg { font-size: 0.9rem; color: #7c6cd6; }
+    a { color: #7c6cd6; }
+  </style>
 </head>
 <body>
-  <p style="font-family:
+  <div class="box">
+    <div class="name">Connie Xu</div>
+    <div class="msg">Opening CV&hellip; <a href="/assets/pdf/cx_resume.pdf">click here</a> if it doesn't
