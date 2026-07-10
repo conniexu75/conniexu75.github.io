@@ -1,19 +1,30 @@
 ---
+title: cv
 permalink: /cv/
-title: CV
 nav: true
-nav_order: 3
-layout: null
+nav_order: 2
 new_tab: true
+layout: null
 ---
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta http-equiv="refresh" content="0; url=/assets/pdf/cx_resume.pdf">
-  <script>window.location.replace("/assets/pdf/cx_resume.pdf");</script>
-  <title>CV</title>
+  <meta charset="utf-8">
+  <title>CV — Connie Xu</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-YERNZ8JPQ4');
+    // give the pageview a moment to send, then go to the PDF
+    setTimeout(function () {
+      window.location.replace("/assets/pdf/cx_resume.pdf");
+    }, 400);
+  </script>
+  <noscript>
+    <meta http-equiv="refresh" content="0; url=/assets/pdf/cx_resume.pdf">
+  </noscript>
 </head>
 <body>
-  <p><a href="/assets/pdf/cv.pdf">Click here if you are not redirected.</a></p>
-</body>
-</html>
+  <p style="font-family:
