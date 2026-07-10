@@ -12,7 +12,7 @@ nav_order: 2
 <div class="paper-card" markdown="1">
 **Scientific Input Costs in University Life Sciences Research**
 
-(with [Ruby Zhang](rzhang15.github.io)))
+(with [Ruby Zhang](rzhang15.github.io))
 </div>
 
 ## Selected Works in Progress
