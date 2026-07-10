@@ -1,8 +1,8 @@
 ---
-title: cv
+title: CV
 permalink: /cv/
 nav: true
-nav_order: 2
+nav_order: 3
 new_tab: true
 layout: null
 ---
