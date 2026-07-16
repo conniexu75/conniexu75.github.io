@@ -20,7 +20,7 @@ nav_order: 2
 <div class="paper-card" markdown="1">
 **The Returns to Science of Centrally Provisioned GPUs and Optimal Allocation**
 
-(with [Ruby Zhang](rzhang15.github.io))
+(with [Ruby Zhang](https://rzhang15.github.io/))
 </div>
 
 <details class="paper-card">
