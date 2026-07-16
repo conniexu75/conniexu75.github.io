@@ -8,9 +8,9 @@ middle_name:
 last_name: Xu
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+   Connie Xu is a PhD candidate in Health Policy and Economics at Harvard University studying the economics of science and health care innovation.
 footer_text: 
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Connie Xu, health policy, health economics, economics of science, innovation, Harvard # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: flask.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -20,7 +20,8 @@ baseurl:
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
-
+serve_og_meta: true
+serve_schema_org: true
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
