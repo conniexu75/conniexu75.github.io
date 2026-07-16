@@ -34,6 +34,6 @@ My research is supported by the [National Institute on Aging](https://www.nber.o
 
 Previously, I was a pre-doctoral fellow at [MIT](https://economics.mit.edu/). Before that, I attended the University of Chicago, where I graduated in 2019 with a BA in Economics and a BA in Statistics. 
 
-You can reach me at conniexu@g.harvard.edu
+You can reach me at [conniexu@g.harvard.edu](mailto:conniexu@g.harvard.edu)
 
 </div>
