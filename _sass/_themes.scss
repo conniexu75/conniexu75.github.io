@@ -267,7 +267,7 @@ details.paper-card .abstract-body {
   text-align: justify;
 }
 
-details.paper-card summary:hover,
+details.paper-card:hover,
 div.paper-card:hover {
   border-color: var(--global-theme-color);
 }
@@ -317,8 +317,7 @@ button, input, select, textarea {
 
 /* Lavender text-selection highlight */
 ::selection {
-  background: #6a5ac9;
-  color: #fff;
+  background: rgba(106, 90, 201, 0.25);
 }
 
 /* Editorial section headings (Research page h2s) */
@@ -330,12 +329,6 @@ h2 {
   color: var(--global-text-color-light);
 }
 
-/* Signature accents: name underline + JMP card bar */
-h1.post-title {
-  border-bottom: 3px solid #6a5ac9;
-  padding-bottom: 0.4rem;
-  display: inline-block;
-}
 
 /* Ysabeau italic for coauthor lines */
 .coauthors {
