@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: 
 keywords: Connie Xu, health policy, health economics, economics of science, innovation, Harvard # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: flask.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: flask-standalone.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://conniexu75.github.io # the base hostname & protocol for your site
 baseurl: 
@@ -517,7 +517,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Alegreya+Sans:300,400,500,700|Ysabeau:400,500,600,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Ysabeau:500,700|Material+Icons&display=swap"
   highlightjs:
     integrity:
       css:
