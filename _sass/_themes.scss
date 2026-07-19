@@ -272,11 +272,20 @@ div.paper-card:hover {
   border-color: var(--global-theme-color);
 }
 
-/* Social icons: slightly bigger, black, lavender on hover */
-i.ai-google-scholar,
-i.fa-linkedin,
-i.fa-envelope {
-  font-size: 1.6rem !important;
+/* Minimalist social icons */
+.minimal-icons {
+  text-align: center;
+  margin-top: 0.4rem;
+}
+
+.minimal-icons a {
+  margin: 0 0.45rem;
+  text-decoration: none;
+}
+
+.minimal-icons i {
+  font-size: 1.35rem;
+  color: var(--global-theme-color);
 }
 
 
@@ -285,23 +294,13 @@ i.fa-envelope {
   margin-bottom: 0;
 }
 
-.profile .more-info {
-  display: none;
-}
 
-.profile .social {
-  margin-top: -1.35rem;
-  text-align: center;
-}
 
 /* breathing room between bio text and photo */
 .profile.float-right {
   margin-left: 1.75rem;
 }
 
-.contact-icons a {
-  margin: 0 0.3rem;
-}
 
 /* Justify body text everywhere, with hyphenation to avoid gappy spacing */
 p {
