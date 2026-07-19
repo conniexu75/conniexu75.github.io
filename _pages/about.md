@@ -11,7 +11,7 @@ profile:
   more_info: >
     <div class="minimal-icons">
       <a href="mailto:conniexu@g.harvard.edu" title="Email" aria-label="Email"><i class="fa-regular fa-envelope"></i></a>
-      <a href="https://scholar.google.com/citations?user=GHZtmuwAAAAJ" title="Google Scholar" aria-label="Google Scholar" target="_blank" rel="noopener"><i class="fa-brands fa-google-scholar"></i></a>
+      <a href="https://scholar.google.com/citations?user=GHZtmuwAAAAJ" title="Google Scholar" aria-label="Google Scholar" target="_blank" rel="noopener"><i class="fa-solid fa-graduation-cap"></i></a>
       <a href="https://www.linkedin.com/in/connie-x-19b671135" title="LinkedIn" aria-label="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin-in"></i></a>
     </div>
 
