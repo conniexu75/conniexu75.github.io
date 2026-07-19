@@ -285,6 +285,11 @@ div.paper-card:hover {
 
 .minimal-icons i {
   font-size: 1.35rem;
+  color: var(--global-text-color);
+  transition: color 0.15s ease;
+}
+
+.minimal-icons a:hover i {
   color: var(--global-theme-color);
 }
 
