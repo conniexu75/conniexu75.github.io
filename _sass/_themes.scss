@@ -302,3 +302,13 @@ i.fa-envelope {
 p {
   text-align: justify;
 }
+
+/* Site font: Roboto Slab */
+body {
+  font-family: "Roboto Slab", serif !important;
+}
+
+/* Alternative: slab headings, regular body */
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+  font-family: "Roboto Slab", serif !important;
+}
