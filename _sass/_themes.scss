@@ -320,6 +320,10 @@ button, input, select, textarea {
   background: rgba(106, 90, 201, 0.25);
 }
 
+html[data-theme="dark"] ::selection {
+  background: rgba(154, 141, 240, 0.45);
+}
+
 /* Editorial section headings (Research page h2s) */
 h2 {
   text-transform: uppercase;
