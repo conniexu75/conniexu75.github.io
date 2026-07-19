@@ -12,7 +12,7 @@ nav_order: 2
 <div class="paper-card jmp-card" markdown="1">
 **[Scientific Input Costs in University Life Sciences Research](/assets/pdf/jmp.pdf)**
 
-<span class="coauthors">(with [Ruby Zhang](https://www.economics.harvard.edu/people/ruby-ruishan-zhang))</span>
+<span class="coauthors">(with [Ruby Zhang](https://rzhang15.github.io/))</span>
 </div>
 
 ## Working Papers
@@ -34,7 +34,7 @@ NBER Working Paper 33996
 <div class="paper-card" markdown="1">
 **The Returns to Science of Centrally Provisioned GPUs and Optimal Allocation**
 
-<span class="coauthors">(with [Ruby Zhang](https://www.economics.harvard.edu/people/ruby-ruishan-zhang))</span>
+<span class="coauthors">(with [Ruby Zhang](https://rzhang15.github.io/))</span>
 </div>
 
 <details class="paper-card">
