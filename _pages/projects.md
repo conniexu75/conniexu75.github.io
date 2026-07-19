@@ -10,7 +10,7 @@ nav_order: 2
 ## Job Market Paper
 
 <div class="paper-card jmp-card" markdown="1">
-**[Scientific Input Costs in University Life Sciences Research](/assets/pdf/jmp.pdf)**
+**Scientific Input Costs in University Life Sciences Research**
 
 <span class="coauthors">(with [Ruby Zhang](https://rzhang15.github.io/))</span>
 </div>
