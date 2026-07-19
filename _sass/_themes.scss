@@ -342,6 +342,20 @@ h1.post-title {
   font-style: italic;
 }
 
+/* JMP card accent bar */
+.jmp-card {
+  border-left: 4px solid #6a5ac9;
+}
+
+/* Tight title-coauthor spacing in non-clickable cards */
+div.paper-card p {
+  margin: 0 0 0.3rem;
+}
+
+div.paper-card p:last-child {
+  margin-bottom: 0;
+}
+
 /* Refined link underlines */
 a {
   text-decoration-thickness: 1.5px;
