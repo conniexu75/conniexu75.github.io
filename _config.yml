@@ -106,7 +106,7 @@ analytics:
   # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
   # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
   google: G-YERNZ8JPQ4 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
-  cronitor:  541652c34a9df867683d0c70aab36a36 #RUM analytics site ID (format:  )
+  cronitor: 541652c34a9df867683d0c70aab36a36 # RUM analytics site ID
   pirsch: # your Pirsch analytics site ID (length 32 characters)
   openpanel: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
@@ -525,9 +525,10 @@ third_party_libraries:
         library: "https://cdn.jsdelivr.net/npm/echarts@{{version}}/dist/echarts.min.js"
         dark_theme: "https://cdn.jsdelivr.net/npm/echarts@{{version}}/theme/dark-fresh-cut.js"
     version: "5.5.0"
-   google_fonts:
-       url:
-         fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|IBM+Plex+Sans:300,400,500,600,700|Material+Icons&display=swap"  highlightjs:
+  google_fonts:
+    url:
+      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|IBM+Plex+Sans:300,400,500,600,700|Material+Icons&display=swap"
+  highlightjs:
     integrity:
       css:
         light: "sha256-Oppd74ucMR5a5Dq96FxjEzGF7tTw2fZ/6ksAqDCM8GY="
