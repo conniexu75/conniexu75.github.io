@@ -302,3 +302,11 @@ i.fa-envelope {
 p {
   text-align: justify;
 }
+/* Site font: IBM Plex Sans */
+body {
+  font-family: "IBM Plex Sans", sans-serif !important;
+}
+
+button, input, select, textarea {
+  font-family: inherit;
+}
