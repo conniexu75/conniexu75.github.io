@@ -9,12 +9,17 @@ nav_order: 2
 
 ## Job Market Paper
 
-<div class="paper-card jmp-card" markdown="1">
-**Scientific Input Costs in University Life Sciences Research**
-
-<span class="coauthors">(with [Ruby Zhang](https://rzhang15.github.io/))</span>
+<details class="paper-card jmp-card">
+<summary>
+<b>Scientific Input Costs in University Life Sciences Research</b><br>
+<span class="coauthors">(with <a href="https://rzhang15.github.io/">Ruby Zhang</a>)</span><br>
+<span style="color: #999; font-style: italic; font-weight: 300;">[draft coming soon]</span>
+<span class="card-foot"><span class="abs-hint"></span></span>
+</summary>
+<div class="abstract-body">
+<p>Scientific research is defined by uncertainty, requiring principal investigators to constantly navigate funding cycles, resource constraints, and unpredictable discoveries. Navigating this uncertainty to sustain a research agenda depends on how scientists are able to absorb these shocks. While prior work often focuses on funding fluctuations, the impact of supply-side cost shocks remains largely unexplored because scientist purchasing behavior is difficult to observe. We explore one such shock in the life sciences—the 2014 Thermo Fisher and Life Technologies merger—using novel procurement records. A matched difference-in-differences design reveals affected prices rose 20% with minimal quantity response. This translates to a 3.2% increase in everyday lab supply costs and a 1% decline in annual publications. Our estimated -0.30 output-cost elasticity equates to nearly 300 fewer annual publications across 12,000 scientists. The decline concentrates among early-career PIs, who possess the least financial slack but generate the highest output per dollar. While they respond by securing additional NIH funding, their output fails to recover, suggesting time is lost to grant writing. Ultimately, these rising input costs act as a hidden friction on scientific innovation.</p>
 </div>
-
+</details>
 ## Working Papers
 
 <details class="paper-card">
