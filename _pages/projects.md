@@ -45,10 +45,14 @@ NBER Working Paper 33996
 <p>We examine how regulatory entry costs for healthcare inputs shape market structure, pricing, and bargaining dynamics throughout the healthcare supply chain. Using a difference-in-differences approach exploiting the FDA's 2016 removal of pre-market clearance requirements for certain medical devices, we find increased manufacturer entry and lower negotiated device prices between manufacturers and hospitals. These reduced input prices propagate downstream, modestly decreasing procedure prices negotiated with insurers and ultimately lowering patient out-of-pocket costs. We then develop and will estimate a structural model that jointly captures manufacturer entry decisions and simultaneous bargaining between hospitals, manufacturers, and insurers. Our proposed counterfactual simulations will quantify how tightening entry regulations or increasing horizontal consolidation would ripple through the supply chain.</p>
 </div>
 </details>
-<div class="paper-card" markdown="1">
-**The Returns to Science of Centrally Provisioned GPUs and Optimal Allocation**
-
-<span class="coauthors">(with [Ruby Zhang](https://rzhang15.github.io/))</span>
+<details class="paper-card">
+<summary>
+<b>The Returns to Science of Centrally Provisioned GPUs and Optimal Allocation</b><br>
+<span class="coauthors">(with <a href="https://rzhang15.github.io/">Ruby Zhang</a>)</span>
+<span class="card-foot"><span class="abs-hint"></span></span>
+</summary>
+<div class="abstract-body">
+<p>[paste abstract here]</p>
 </div>
-
+</details>
 
