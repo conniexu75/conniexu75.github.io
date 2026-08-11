@@ -16,7 +16,18 @@ nav_order: 2
 <span class="card-foot"><span class="abs-hint"></span></span>
 </summary>
 <div class="abstract-body">
-<p>Scientific research is defined by uncertainty, requiring principal investigators to constantly navigate funding cycles, resource constraints, and unpredictable discoveries. Navigating this uncertainty to sustain a research agenda depends on how scientists are able to absorb these shocks. While prior work often focuses on funding fluctuations, the impact of supply-side cost shocks remains largely unexplored because scientist purchasing behavior is difficult to observe. We explore one such shock in the life sciences—the 2014 Thermo Fisher and Life Technologies merger—using novel procurement records. A matched difference-in-differences design reveals affected prices rose 20% with minimal quantity response. This translates to a 3.2% increase in everyday lab supply costs and a 1% decline in annual publications. Our estimated -0.30 output-cost elasticity equates to nearly 300 fewer annual publications across 12,000 scientists. The decline concentrates among early-career PIs, who possess the least financial slack but generate the highest output per dollar. While they respond by securing additional NIH funding, their output fails to recover, suggesting time is lost to grant writing. Ultimately, these rising input costs act as a hidden friction on scientific innovation.</p>
+<p>Scientific research depends on specialized inputs from a concentrated supplier industry.
+We ask how much of an input cost shock passes through to scientific output and which
+scientists can absorb it. Using purchase-level procurement records from U.S. universities,
+we study the 2014 merger of Thermo Fisher Scientific and Life Technologies, which raised
+affected-market prices by about 20% while quantities fell only temporarily, so demand is
+highly inelastic and research budgets bear the higher cost. Tracing the shock through 13,515
+life sciences principal investigators (PIs), we find the average PI’s consumables costs rise
+3.4% and output falls about 0.9%, an elasticity of -0.27. The decline concentrates among
+early-career PIs, who produce the most output per public dollar, and is not explained by
+observable financial resources, consistent with tacit knowledge accumulated over a career.
+The shock transfers roughly $7 million per year of public funding to suppliers alongside 267
+fewer papers.</p>
 </div>
 </details>
 
