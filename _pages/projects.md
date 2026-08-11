@@ -16,18 +16,7 @@ nav_order: 2
 <span class="card-foot"><span class="abs-hint"></span></span>
 </summary>
 <div class="abstract-body">
-<p>Scientific research depends on specialized inputs from a concentrated supplier industry.
-We ask how much of an input cost shock passes through to scientific output and which
-scientists can absorb it. Using purchase-level procurement records from U.S. universities,
-we study the 2014 merger of Thermo Fisher Scientific and Life Technologies, which raised
-affected-market prices by about 20% while quantities fell only temporarily, so demand is
-highly inelastic and research budgets bear the higher cost. Tracing the shock through 13,515
-life sciences principal investigators (PIs), we find the average PI’s consumables costs rise
-3.4% and output falls about 0.9%, an elasticity of -0.27. The decline concentrates among
-early-career PIs, who produce the most output per public dollar, and is not explained by
-observable financial resources, consistent with tacit knowledge accumulated over a career.
-The shock transfers roughly $7 million per year of public funding to suppliers alongside 267
-fewer papers.</p>
+<p>Scientific inputs such as reagents and laboratory consumables are sold by a concentrated supplier industry, and scientists often have few alternatives to the products their research relies on. Shocks originating in these input markets raise two questions, where the higher cost lands and which scientists are able to absorb it. Using purchase-level procurement records from U.S. universities, we study the 2014 merger of Thermo Fisher Scientific and Life Technologies. Prices in affected product markets rose by about 20% while quantities fell only temporarily, so demand is highly inelastic and research budgets bear the higher cost. Tracing the shock through 13,515 life sciences principal investigators (PIs), we find that the average PI's consumables costs rise 3.4% and publication output falls about 0.9% an elasticity of about -0.27. The shock transfers roughly $7 million per year of public research funding to suppliers alongside 267 fewer papers. The output decline concentrates among early-career PIs and shows no comparable gradient in observable financial resources, so the capacity to absorb input cost shocks appears to come with experience, consistent with late-career PIs drawing on tacit knowledge accumulated over a career.</p>
 </div>
 </details>
 
