@@ -16,7 +16,18 @@ nav_order: 2
 <span class="card-foot"><span class="abs-hint"></span></span>
 </summary>
 <div class="abstract-body">
-<p>Scientific inputs such as reagents and laboratory consumables are sold by a concentrated supplier industry, and scientists often have few alternatives to the products their research relies on. Shocks originating in these input markets raise two questions, where the higher cost lands and which scientists are able to absorb it. Using purchase-level procurement records from U.S. universities, we study the 2014 merger of Thermo Fisher Scientific and Life Technologies. Prices in affected product markets rose by about 20% while quantities fell only temporarily, so demand is highly inelastic and research budgets bear the higher cost. Tracing the shock through 13,515 life sciences principal investigators (PIs), we find that the average PI's consumables costs rise 3.4% and publication output falls about 0.9% an elasticity of about -0.27. The shock transfers roughly $7 million per year of public research funding to suppliers alongside 267 fewer papers. The output decline concentrates among early-career PIs and shows no comparable gradient in observable financial resources, so the capacity to absorb input cost shocks appears to come with experience, consistent with late-career PIs drawing on tacit knowledge accumulated over a career.</p>
+<p>Scientific inputs such as reagents and consumables are sold in concentrated markets
+with limited product substitutability. When prices in these markets rise, who bears the
+cost, and who adapts? Using purchase-level procurement records, we study the 2014
+merger of Thermo Fisher Scientific and Life Technologies. We find that post-merger prices
+in affected markets rose by roughly 20 percent. With highly inelastic demand, research
+budgets absorbed these costs. For a sample of 13,515 life sciences principal investigators
+(PIs), the cost of the average pre-merger consumables bundle increased by 2.8 percent,
+driving a 1.2 percent decline in research output (an implied elasticity of -0.421). Ultimately,
+this shock redirected approximately $4 million in public funding to suppliers and resulted
+in 349 fewer papers annually. These output losses fell disproportionately on early-career PIs,
+a pattern not explained by observable financial resources. This suggests that adapting to
+supply shocks depends on experience and tacit knowledge.</p>
 </div>
 </details>
 
