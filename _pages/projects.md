@@ -48,16 +48,6 @@ NBER Working Paper 33996
 ## Work in Progress
 <details class="paper-card">
 <summary>
-<b>The Ripple Effects of Health Care Entry Regulation</b><br>
-<span class="coauthors">(with <a href="https://sites.google.com/site/parkerrogersecon">Parker Rogers</a> and <a href="https://www.yunanji.com/">Yunan Ji</a>)</span>
-<span class="card-foot"><span class="abs-hint"></span></span>
-</summary>
-<div class="abstract-body">
-<p>We examine how regulatory entry costs for healthcare inputs shape market structure, pricing, and bargaining dynamics throughout the healthcare supply chain. Using a difference-in-differences approach exploiting the FDA's 2016 removal of pre-market clearance requirements for certain medical devices, we find increased manufacturer entry and lower negotiated device prices between manufacturers and hospitals. These reduced input prices propagate downstream, modestly decreasing procedure prices negotiated with insurers and ultimately lowering patient out-of-pocket costs. We then develop and will estimate a structural model that jointly captures manufacturer entry decisions and simultaneous bargaining between hospitals, manufacturers, and insurers. Our proposed counterfactual simulations will quantify how tightening entry regulations or increasing horizontal consolidation would ripple through the supply chain.</p>
-</div>
-</details>
-<details class="paper-card">
-<summary>
 <b>The Returns to Science of Centrally Provisioned GPUs and Optimal Allocation</b><br>
 <span class="coauthors">(with <a href="https://rzhang15.github.io/">Ruby Zhang</a>)</span>
 <span class="card-foot"><span class="abs-hint"></span></span>
@@ -78,3 +68,14 @@ redistributive allocation of federal cyberinfrastructure grants.</p>
 </div>
 </details>
 
+
+<details class="paper-card">
+<summary>
+<b>The Ripple Effects of Health Care Entry Regulation</b><br>
+<span class="coauthors">(with <a href="https://sites.google.com/site/parkerrogersecon">Parker Rogers</a> and <a href="https://www.yunanji.com/">Yunan Ji</a>)</span>
+<span class="card-foot"><span class="abs-hint"></span></span>
+</summary>
+<div class="abstract-body">
+<p>We examine how regulatory entry costs for healthcare inputs shape market structure, pricing, and bargaining dynamics throughout the healthcare supply chain. Using a difference-in-differences approach exploiting the FDA's 2016 removal of pre-market clearance requirements for certain medical devices, we find increased manufacturer entry and lower negotiated device prices between manufacturers and hospitals. These reduced input prices propagate downstream, modestly decreasing procedure prices negotiated with insurers and ultimately lowering patient out-of-pocket costs. We then develop and will estimate a structural model that jointly captures manufacturer entry decisions and simultaneous bargaining between hospitals, manufacturers, and insurers. Our proposed counterfactual simulations will quantify how tightening entry regulations or increasing horizontal consolidation would ripple through the supply chain.</p>
+</div>
+</details>
