@@ -387,9 +387,20 @@ footer {
   flex-shrink: 0;
 }
 
-/* Compact footer: copyright hugs the bottom edge
-   (body prefix outranks the gem's later footer.sticky-bottom rule) */
+/* Compact footer: no divider line, small copyright in the bottom-left of the
+   content column (body prefix outranks the gem's later footer.sticky-bottom rule) */
 body.sticky-bottom-footer footer.sticky-bottom {
+  border-top: none;
   padding-top: 0.9rem;
   padding-bottom: 0.7rem;
+  font-size: 0.75rem;
+}
+
+body.sticky-bottom-footer footer.sticky-bottom .container {
+  text-align: left;
+}
+
+/* No divider line under the navbar */
+.navbar.fixed-top {
+  border-bottom: none;
 }
