@@ -9,7 +9,7 @@ nav_order: 2
 ## Job Market Paper
 <details class="paper-card jmp-card">
 <summary>
-<b><a href="{{ '/assets/pdf/ConnieXu_JMP.pdf' | relative_url }}" style="color: inherit; text-decoration: none;">Managing the Rising Cost of Science: Supplier Consolidation in the Academic Life Sciences</a></b><br>
+<b><a href="{{ '/assets/pdf/ConnieXu_JMP.pdf' | relative_url }}">Managing the Rising Cost of Science: Supplier Consolidation in the Academic Life Sciences</a></b><br>
 <span class="coauthors">(with <a href="https://rzhang15.github.io/">Ruby Zhang</a>)</span>
 <span class="card-foot"><span class="abs-hint"></span></span>
 </summary>
@@ -19,15 +19,14 @@ to rising prices, while experimental protocols calibrated to specific products m
 to substitute away from them. How much science is lost when these inputs become more expensive,
 and which scientists are better able to adjust? Using purchase-level procurement records, we
 follow a merger of two large life sciences suppliers from the prices principal investigators
-(PIs) pay to the research they produce. Post-merger prices in affected markets rose by roughly
-20 percent, while quantities declined only temporarily, indicating limited demand response.
-PIs facing larger increases in their input costs published less. For the average PI, input costs
-rose by about 2.8 percent and scientific output fell by about 1.2 percent. The consequences of
-higher input prices therefore extend beyond research costs to the production of science itself.
-The output losses fall disproportionately on early-career PIs. Financial resources do not
-explain this difference. Instead, the ability to adjust appears to improve with experience,
-consistent with PIs accumulating knowledge of how to respond to higher costs through years of
-running a lab.</p>
+(PIs) pay to the research they produce. Post-merger prices in affected markets rose by almost
+20 percent. Quantities declined only slightly and temporarily in all markets, indicating limited
+demand response. PIs facing larger increases in their input costs published less. For the average
+PI, input costs rose by about 2.8 percent, and our estimates imply a 1.2 percent decline in
+research output. Higher input prices therefore reduce scientific production, not just raise
+research costs. The output losses are larger among early-career PIs. Financial resources do not
+fully explain this difference. Instead, our findings suggest that experience may help PIs adjust
+to higher prices, through tacit knowledge accumulated through training and years of running a lab.</p>
 </div>
 </details>
 ## Working Papers
