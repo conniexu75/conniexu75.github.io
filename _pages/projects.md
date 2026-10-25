@@ -69,7 +69,7 @@ absolute gains across universities.</p>
 <details class="paper-card">
 <summary>
 <b>The Ripple Effects of Health Care Entry Regulation</b><br>
-<span class="coauthors">(with <a href="https://sites.google.com/site/parkerrogersecon">Parker Rogers</a> and <a href="https://www.yunanji.com/">Yunan Ji</a>)</span>
+<span class="coauthors">(with <a href="https://www.yunanji.com/">Yunan Ji</a> and <a href="https://sites.google.com/site/parkerrogersecon">Parker Rogers</a>)</span>
 <span class="card-foot"><span class="abs-hint"></span></span>
 </summary>
 <div class="abstract-body">
