@@ -50,18 +50,20 @@ NBER Working Paper 33996
 <span class="card-foot"><span class="abs-hint"></span></span>
 </summary>
 <div class="abstract-body">
-<p>Artificial intelligence and deep learning methods require expensive capital investments in the form of
-Graphical Processing Units (GPUs). Given the importance of GPU clusters to computational research,
-where should infrastructure funding be allocated? We construct a novel panel of university GPU capacity
-and research output for R1 U.S. universities, combining historical snapshots of research computing
-websites with bibliometric data from OpenAlex. We use large, discrete computing capacity jumps in an
-event-study design and find modest effects of cluster upgrades on AI-related publications. However,
-there is significant heterogeneity: low-tier universities exhibit a larger marginal response to capacity
-upgrades than high-tier universities. We develop a structural model of the university as a multi-product
-organization to estimate the production function for GPU-enabled research, derive a capital allocation
-rule across fields, and use the estimated elasticities to characterize the NSF's revealed preference over
-efficiency versus equity. Our findings suggest that diminishing returns to computing capital favor a more
-redistributive allocation of federal cyberinfrastructure grants.</p>
+<p>Should federal infrastructure grants go to universities with higher productivity, or to universities
+with tighter budgets that cannot self-finance capital investments? We study the allocation of federal
+computing grants to U.S. universities by estimating the returns to science of centrally provisioned GPUs
+and modeling the crowd-out of private investment. We construct a novel panel of CPU and GPU capacity at
+53 U.S. R1 universities with publication counts as our output measure. Exploiting large and lumpy
+increases in GPU capacity, we find that AI and deep-learning publications respond more at less-resourced
+institutions (restricting to incumbent researchers). To decompose the effect of capital versus labor, we
+structurally estimate a production function where multiple fields share a central cluster, and then derive
+universities' investment responses to external grants. Holding labor fixed, the observed National Science
+Foundation (NSF) portfolio captures 39% of the publication gain attainable with the same budget. The
+publication-maximizing allocation shifts dollars from universities with medium-sized endowments toward
+both tails. Since the NSF has mandates beyond maximizing publications, we find that the NSF's observed
+allocation is more geographically dispersed and consistent with maximizing proportional rather than
+absolute gains across universities.</p>
 </div>
 </details>
 <details class="paper-card">
