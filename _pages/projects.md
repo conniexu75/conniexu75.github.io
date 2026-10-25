@@ -45,7 +45,7 @@ NBER Working Paper 33996
 ## Work in Progress
 <details class="paper-card">
 <summary>
-<b>Returns to Science of Centrally Provisioned GPUs and Optimal Allocation</b><br>
+<b><a href="https://rzhang15.github.io/assets/pdf/Ruby%20(Ruishan)%20Zhang%20JMP.pdf" style="color: inherit; text-decoration: none;">Returns to Science of Centrally Provisioned GPUs and Optimal Allocation</a></b><br>
 <span class="coauthors">(with <a href="https://rzhang15.github.io/">Ruby Zhang</a>)</span>
 <span class="card-foot"><span class="abs-hint"></span></span>
 </summary>
