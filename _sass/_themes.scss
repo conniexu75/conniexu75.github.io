@@ -404,3 +404,27 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
 .navbar.fixed-top {
   border-bottom: none;
 }
+
+/* Minimal back-to-top button: small lavender chevron in a thin ring
+   (overrides the vanilla-back-to-top defaults: 56px black circle with shadow) */
+#back-to-top {
+  box-sizing: border-box;
+  width: 34px;
+  height: 34px;
+  background: var(--global-bg-color);
+  border: 1px solid var(--global-theme-color);
+  color: var(--global-theme-color);
+  box-shadow: none;
+  transition: bottom 0.2s, opacity 0.2s, background-color 0.2s, color 0.2s;
+}
+
+#back-to-top svg {
+  width: 18px;
+  height: 18px;
+  margin: 7px auto 0;
+}
+
+#back-to-top:hover {
+  background: var(--global-theme-color);
+  color: var(--global-bg-color);
+}
