@@ -20,13 +20,8 @@
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{v.$white-color};
   --global-highlight-color: #{v.$red-color-dark};
-  --global-back-to-top-bg-color: rgba(
-    #{color.channel(v.$black-color, "red", v.$space: rgb)},
-    #{color.channel(v.$black-color, "green", v.$space: rgb)},
-    #{color.channel(v.$black-color, "blue", v.$space: rgb)},
-    0.4
-  );
-  --global-back-to-top-text-color: #{v.$white-color};
+  --global-back-to-top-bg-color: var(--global-bg-color);
+  --global-back-to-top-text-color: var(--global-theme-color);
   --global-newsletter-bg-color: #{v.$white-color};
   --global-newsletter-text-color: #{v.$black-color};
 
@@ -68,8 +63,12 @@
     background: var(--global-back-to-top-bg-color);
     bottom: v.$back-to-top-bottom;
     right: v.$back-to-top-right;
-    height: v.$back-to-top-height;
-    width: v.$back-to-top-width;
+    box-sizing: border-box;
+    height: 34px;
+    width: 34px;
+    border: 1px solid var(--global-theme-color);
+    box-shadow: none;
+    transition: bottom 0.2s, opacity 0.2s, background-color 0.2s, color 0.2s;
     z-index: v.$back-to-top-z-index;
   }
 }
@@ -89,13 +88,8 @@ html[data-theme="dark"] {
   --global-distill-app-color: #{v.$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{v.$grey-900};
-  --global-back-to-top-bg-color: rgba(
-    #{color.channel(v.$white-color, "red", v.$space: rgb)},
-    #{color.channel(v.$white-color, "green", v.$space: rgb)},
-    #{color.channel(v.$white-color, "blue", v.$space: rgb)},
-    0.5
-  );
-  --global-back-to-top-text-color: #{v.$black-color};
+  --global-back-to-top-bg-color: var(--global-bg-color);
+  --global-back-to-top-text-color: var(--global-theme-color);
   --global-newsletter-bg-color: #{v.$grey-color-light};
   --global-newsletter-text-color: #{v.$grey-color-dark};
 
@@ -405,19 +399,8 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
   border-bottom: none;
 }
 
-/* Minimal back-to-top button: small lavender chevron in a thin ring
-   (overrides the vanilla-back-to-top defaults: 56px black circle with shadow) */
-#back-to-top {
-  box-sizing: border-box;
-  width: 34px;
-  height: 34px;
-  background: var(--global-bg-color);
-  border: 1px solid var(--global-theme-color);
-  color: var(--global-theme-color);
-  box-shadow: none;
-  transition: bottom 0.2s, opacity 0.2s, background-color 0.2s, color 0.2s;
-}
-
+/* Minimal back-to-top button: small lavender chevron in a thin ring (size, ring and
+   colors are set in :root above; this shrinks the library's 24px arrow to fit) */
 #back-to-top svg {
   width: 18px;
   height: 18px;
@@ -425,6 +408,6 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
 }
 
 #back-to-top:hover {
-  background: var(--global-theme-color);
-  color: var(--global-bg-color);
+  --global-back-to-top-bg-color: var(--global-theme-color);
+  --global-back-to-top-text-color: var(--global-bg-color);
 }
