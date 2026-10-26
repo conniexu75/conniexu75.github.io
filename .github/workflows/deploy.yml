@@ -60,6 +60,11 @@ on:
 permissions:
   contents: write
 
+# run deploys one at a time so an older commit can never finish last and overwrite a newer one
+concurrency:
+  group: deploy-site
+  cancel-in-progress: false
+
 jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
