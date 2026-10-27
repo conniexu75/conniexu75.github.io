@@ -411,3 +411,16 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
   --global-back-to-top-bg-color: var(--global-theme-color);
   --global-back-to-top-text-color: var(--global-bg-color);
 }
+
+/* Center the light/dark toggle on the nav text's midline. Replaces the gem's fixed
+   translateY(4px) nudge, which left the icon ~4px high next to this site's nav font. */
+@media (min-width: 576px) {
+  .navbar .toggle-container {
+    display: flex;
+    align-items: center;
+  }
+
+  .navbar #light-toggle {
+    transform: translateY(1px);
+  }
+}
