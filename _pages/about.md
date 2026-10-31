@@ -27,12 +27,8 @@ latest_posts:
   limit: 3
 ---
 
-Hello! I'm a PhD candidate in health policy and economics at [Harvard University](https://healthpolicy.fas.harvard.edu/). I study the economics of science and health care, with a particular focus on innovation in the life sciences.
+I'm a Ph.D. candidate in health policy and economics at [Harvard University](https://healthpolicy.fas.harvard.edu/). I study the economics of science and health care, with a focus on innovation in the life sciences.
 
 **I am on the 2026-2027 job market.**
 
-My research is supported by the [National Institute on Aging](https://www.nber.org/agingtraining) and the [National Science Foundation](https://www.nsfgrfp.org/). I am an [NBER Fellow](https://www.nber.org/programs-projects/projects-and-centers/8750-graduate-and-early-career-fellowships-fiscal-and-economic-effects-innovation-and-productivity) for Fiscal and Economic Effects of Innovation and Productivity Policies and a graduate affiliate of the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/).
-
-Previously, I was a pre-doctoral fellow at [MIT](https://economics.mit.edu/). Before that, I attended the University of Chicago, where I graduated in 2019 with a BA in Economics and a BA in Statistics.
-
-You can reach me at [conniexu@g.harvard.edu](mailto:conniexu@g.harvard.edu).
+I graduated from the University of Chicago with a B.A. in Economics & Statistics. Before starting my Ph.D., I was a pre-doctoral fellow at [MIT](https://economics.mit.edu/).
