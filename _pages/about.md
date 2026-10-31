@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: headshot2_square.jpg
+  image: headshot.jpg
   image_circular: false # square photo with softly rounded corners (see _sass/_themes.scss)
   more_info: >
     <div class="profile-links">
