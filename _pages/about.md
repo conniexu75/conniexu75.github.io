@@ -32,4 +32,4 @@ I'm a Ph.D. candidate in health policy and economics at [Harvard University](htt
 
 My research is supported by the [National Institute on Aging](https://www.nber.org/agingtraining) and the [National Science Foundation](https://www.nsfgrfp.org/). I am an [NBER Fellow](https://www.nber.org/programs-projects/projects-and-centers/8750-graduate-and-early-career-fellowships-fiscal-and-economic-effects-innovation-and-productivity) for Fiscal and Economic Effects of Innovation and Productivity Policies and a graduate affiliate of the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/).
 
-I graduated from the University of Chicago with a B.A. in Economics & Statistics. Before starting my Ph.D., I was a pre-doctoral fellow at [MIT](https://economics.mit.edu/).
+I graduated from the University of Chicago with a B.A. in Economics and in Statistics. Before starting my Ph.D., I was a pre-doctoral fellow at [MIT](https://economics.mit.edu/).
