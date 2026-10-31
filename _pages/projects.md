@@ -9,7 +9,7 @@ nav_order: 2
 ## Job Market Paper
 <details class="paper-card jmp-card">
 <summary>
-<b><a href="{{ '/assets/pdf/ConnieXu_JMP.pdf' | relative_url }}">Managing the Rising Cost of Science: Supplier Consolidation in the Academic Life Sciences</a></b><br>
+<b><a href="{{ '/assets/pdf/ConnieXu_JMP.pdf' | relative_url }}">Managing the Rising Cost of Science: Supplier Consolidation in the Academic Life Sciences</a></b> <a class="pdf-link" href="{{ '/assets/pdf/ConnieXu_JMP.pdf' | relative_url }}">[PDF]</a><br>
 <span class="coauthors">(with <a href="https://rzhang15.github.io/">Ruby Zhang</a>)</span>
 <span class="card-foot"><span class="abs-hint"></span></span>
 </summary>
@@ -32,7 +32,7 @@ through tacit knowledge accumulated during training and years of running a lab.<
 ## Working Papers
 <details class="paper-card">
 <summary>
-<b><a href="{{ '/assets/pdf/w33996.pdf' | relative_url }}">Person and Place Effects in Scientific Discovery</a></b><br>
+<b><a href="{{ '/assets/pdf/w33996.pdf' | relative_url }}">Person and Place Effects in Scientific Discovery</a></b> <a class="pdf-link" href="{{ '/assets/pdf/w33996.pdf' | relative_url }}">[PDF]</a><br>
 <span class="coauthors">(with <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=868461">Amitabh Chandra</a>)</span><br>
 NBER Working Paper 33996
 <span class="card-foot"><span class="abs-hint"></span> &nbsp;·&nbsp; Media coverage: <a href="https://www.science.org/content/article/large-study-scientists-who-move-their-labs-reveals-how-location-drives-productivity">Science</a></span>
