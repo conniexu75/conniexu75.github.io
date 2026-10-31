@@ -35,5 +35,5 @@ My research is supported by the [National Institute on Aging](https://www.nber.o
 I graduated from the University of Chicago with a B.A. in Economics and in Statistics. Before starting my Ph.D., I was a pre-doctoral fellow at [MIT](https://economics.mit.edu/).
 
 <div class="home-papers">
-{% include papers.liquid %}
+{% include papers.liquid dividers=true %}
 </div>

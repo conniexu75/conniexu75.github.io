@@ -12,6 +12,7 @@
   --global-text-color-light: #{v.$grey-color};
   --global-theme-color: #6a5ac9;
   --global-hover-color: #6a5ac9;
+  --global-section-rule-color: #4b3ca8; /* deeper shade of the theme purple */
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-dark};
   --global-footer-text-color: #{v.$grey-color-light};
@@ -81,6 +82,7 @@ html[data-theme="dark"] {
   --global-text-color-light: #{v.$grey-color};
   --global-theme-color: #9a8df0;
   --global-hover-color: #9a8df0;
+  --global-section-rule-color: #7b6ee0;
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-light};
   --global-footer-text-color: #{v.$grey-color-dark};
@@ -255,9 +257,9 @@ details.paper-card[open] .abs-hint::after {
 }
 
 details.paper-card .abstract-body {
-  padding: 0 1.5rem 1.25rem;
+  margin: 0 1.5rem;
+  padding: 1rem 0 1.25rem;
   border-top: 1px solid var(--global-divider-color);
-  padding-top: 1rem;
   text-align: justify;
 }
 
@@ -461,13 +463,16 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
   color: var(--global-text-color-light);
 }
 
-/* Front page paper list: no cards; sections separated by larger Title Case headings and space */
+/* Front page paper list: no cards; deep-purple rule above each Title Case heading */
 .home-papers {
   clear: both;
 }
 
-.home-papers {
-  margin-top: 3.25rem;
+.home-papers .section-rule {
+  border: 0;
+  border-top: 1px solid var(--global-section-rule-color);
+  opacity: 1;
+  margin: 2.75rem 0 1.5rem;
 }
 
 .home-papers h2 {
@@ -476,11 +481,8 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
   text-transform: none;
   letter-spacing: 0;
   color: var(--global-text-color);
+  margin-top: 0;
   margin-bottom: 1.1rem;
-}
-
-.home-papers #working-papers {
-  margin-top: 3.75rem;
 }
 
 .home-papers details.paper-card {
@@ -495,6 +497,7 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
 }
 
 .home-papers details.paper-card .abstract-body {
+  margin: 0;
   padding: 0.75rem 0 0;
   border-top: none;
 }
