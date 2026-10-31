@@ -338,9 +338,10 @@ h2 {
 }
 
 
-/* Ysabeau italic for coauthor lines */
+/* Ysabeau italic for coauthor lines, a step smaller than the title */
 .coauthors {
   font-style: italic;
+  font-size: 0.9em;
 }
 
 /* JMP card accent bar */
