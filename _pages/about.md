@@ -1,6 +1,7 @@
 ---
 layout: about
-title: About
+title: Economics Job Market Candidate, Harvard # used for link previews; menu label is nav_title
+nav_title: About
 permalink: /
 subtitle:
 
@@ -28,7 +29,7 @@ latest_posts:
 
 I'm a Ph.D. candidate in health policy and economics at [Harvard University](https://healthpolicy.fas.harvard.edu/). I study the economics of science and health care, with a focus on innovation in the life sciences.
 
-**I am on the 2026-2027 job market.**
+**I am on the 2026–2027 job market.**
 
 My research is supported by the [National Institute on Aging](https://www.nber.org/agingtraining) and the [National Science Foundation](https://www.nsfgrfp.org/). I am an [NBER Fellow](https://www.nber.org/programs-projects/projects-and-centers/8750-graduate-and-early-career-fellowships-fiscal-and-economic-effects-innovation-and-productivity) for Fiscal and Economic Effects of Innovation and Productivity Policies and a graduate affiliate of the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/).
 

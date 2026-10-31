@@ -259,7 +259,7 @@ details.paper-card[open] .abs-hint::after {
 details.paper-card .abstract-body {
   margin: 0 1.5rem;
   padding: 0.25rem 0 1.25rem;
-  text-align: justify;
+  text-align: left;
 }
 
 details.paper-card:hover,
@@ -303,10 +303,10 @@ div.paper-card:hover {
 }
 
 
-/* Justify body text everywhere, with hyphenation to avoid gappy spacing */
+/* Left-aligned body text: even word spacing, no mid-word hyphen breaks */
 p {
-  text-align: justify;
-  hyphens: auto;
+  text-align: left;
+  hyphens: manual;
 }
 /* Site font: Ysabeau */
 body {
@@ -528,4 +528,27 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
 
 .home-papers details.paper-card:hover {
   border-color: transparent;
+}
+
+/* Paper titles: one colour for all; a linked title turns lavender and underlined on hover.
+   (The GPU title's inline style keeps its link hidden, hover included.) */
+details.paper-card summary b > a {
+  color: var(--global-text-color);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+details.paper-card summary b > a:hover {
+  color: var(--global-theme-color);
+  text-decoration: underline;
+}
+
+/* Phones: photo at about half the width, centred, so the bio and JMP come into view sooner */
+@media (max-width: 575.98px) {
+  .post .profile.float-right {
+    float: none;
+    width: 55%;
+    min-width: 190px;
+    margin: 0 auto 1.25rem;
+  }
 }
