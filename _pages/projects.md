@@ -64,7 +64,6 @@ allocation is more geographically dispersed and consistent with maximizing propo
 absolute gains across universities.</p>
 </div>
 </details>
-## Work in Progress
 <details class="paper-card">
 <summary>
 <b>The Ripple Effects of Health Care Entry Regulation</b><br>
