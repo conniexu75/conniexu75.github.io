@@ -9,13 +9,12 @@ profile:
   image: headshot.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <div class="minimal-icons">
-      <a href="mailto:conniexu@g.harvard.edu" title="Email" aria-label="Email"><i class="fa-regular fa-envelope"></i></a>
-      <a href="https://scholar.google.com/citations?user=GHZtmuwAAAAJ" title="Google Scholar" aria-label="Google Scholar" target="_blank" rel="noopener"><i class="fa-solid fa-graduation-cap"></i></a>
-      <a href="https://www.linkedin.com/in/connie-x-19b671135" title="LinkedIn" aria-label="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin-in"></i></a>
+    <div class="profile-links">
+      <a href="mailto:conniexu@g.harvard.edu">conniexu@g.harvard.edu</a><br>
+      <a href="/cv/" target="_blank" rel="noopener">[CV]</a>
     </div>
 
-social: false # old plugin icon row off; icons now live in more_info above
+social: false # plugin icon row off; email + CV links live in more_info above
 selected_papers: false # includes a list of papers marked as "selected={true}"
 announcements:
   enabled: false # includes a list of news items
