@@ -12,6 +12,7 @@
   --global-text-color-light: #{v.$grey-color};
   --global-theme-color: #6a5ac9;
   --global-hover-color: #6a5ac9;
+  --global-section-rule-color: #4b3ca8; /* deeper shade of the theme purple */
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-dark};
   --global-footer-text-color: #{v.$grey-color-light};
@@ -81,6 +82,7 @@ html[data-theme="dark"] {
   --global-text-color-light: #{v.$grey-color};
   --global-theme-color: #9a8df0;
   --global-hover-color: #9a8df0;
+  --global-section-rule-color: #7b6ee0;
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-light};
   --global-footer-text-color: #{v.$grey-color-dark};
@@ -444,4 +446,59 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
   margin-bottom: 1rem;
   font-size: 0.95rem;
   line-height: 1.8;
+}
+
+/* Square profile photo with softly rounded corners (image_circular: false) */
+.profile img.rounded {
+  border-radius: 10px;
+}
+
+/* Dot between the CV and LinkedIn links under the photo */
+.profile .more-info .profile-links .ln {
+  white-space: nowrap;
+}
+
+.profile .more-info .profile-links .sep {
+  margin: 0 0.45em;
+  color: var(--global-text-color-light);
+}
+
+/* Front page paper list: no cards, sections separated by deep-purple rules */
+.home-papers {
+  clear: both;
+}
+
+.home-papers .section-rule {
+  border: 0;
+  border-top: 1px solid var(--global-section-rule-color);
+  opacity: 1;
+  margin: 2.75rem 0 1.5rem;
+}
+
+.home-papers h2 {
+  margin-bottom: 1.1rem;
+}
+
+.home-papers details.paper-card {
+  background: none;
+  border: none;
+  border-radius: 0;
+  margin-bottom: 1.6rem;
+}
+
+.home-papers details.paper-card summary {
+  padding: 0;
+}
+
+.home-papers details.paper-card .abstract-body {
+  padding: 0.75rem 0 0;
+  border-top: none;
+}
+
+.home-papers .jmp-card {
+  border-left: none;
+}
+
+.home-papers details.paper-card:hover {
+  border-color: transparent;
 }

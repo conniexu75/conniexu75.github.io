@@ -6,15 +6,15 @@ subtitle:
 
 profile:
   align: right
-  image: headshot.jpg
-  image_circular: true # crops the image to make it circular
+  image: headshot2_square.jpg
+  image_circular: false # square photo with softly rounded corners (see _sass/_themes.scss)
   more_info: >
     <div class="profile-links">
-      <a href="mailto:conniexu@g.harvard.edu">conniexu@g.harvard.edu</a><br>
-      <a href="/cv/" target="_blank" rel="noopener">[CV]</a>
+      <span class="ln"><a href="mailto:conniexu@g.harvard.edu">conniexu@g.harvard.edu</a></span><br>
+      <span class="ln"><a href="/cv/" target="_blank" rel="noopener">CV</a><span class="sep">·</span><a href="https://www.linkedin.com/in/connie-x-19b671135" target="_blank" rel="noopener">LinkedIn</a></span>
     </div>
 
-social: false # plugin icon row off; email + CV links live in more_info above
+social: false # plugin icon row off; email, CV and LinkedIn links live in more_info above
 selected_papers: false # includes a list of papers marked as "selected={true}"
 announcements:
   enabled: false # includes a list of news items
@@ -33,3 +33,7 @@ I'm a Ph.D. candidate in health policy and economics at [Harvard University](htt
 My research is supported by the [National Institute on Aging](https://www.nber.org/agingtraining) and the [National Science Foundation](https://www.nsfgrfp.org/). I am an [NBER Fellow](https://www.nber.org/programs-projects/projects-and-centers/8750-graduate-and-early-career-fellowships-fiscal-and-economic-effects-innovation-and-productivity) for Fiscal and Economic Effects of Innovation and Productivity Policies and a graduate affiliate of the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/).
 
 I graduated from the University of Chicago with a B.A. in Economics and in Statistics. Before starting my Ph.D., I was a pre-doctoral fellow at [MIT](https://economics.mit.edu/).
+
+<div class="home-papers">
+{% include papers.liquid dividers=true %}
+</div>
