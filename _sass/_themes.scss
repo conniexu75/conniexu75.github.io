@@ -12,7 +12,6 @@
   --global-text-color-light: #{v.$grey-color};
   --global-theme-color: #6a5ac9;
   --global-hover-color: #6a5ac9;
-  --global-section-rule-color: #4b3ca8; /* deeper shade of the theme purple */
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-dark};
   --global-footer-text-color: #{v.$grey-color-light};
@@ -82,7 +81,6 @@ html[data-theme="dark"] {
   --global-text-color-light: #{v.$grey-color};
   --global-theme-color: #9a8df0;
   --global-hover-color: #9a8df0;
-  --global-section-rule-color: #7b6ee0;
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-light};
   --global-footer-text-color: #{v.$grey-color-dark};
@@ -244,7 +242,7 @@ details.paper-card summary::-webkit-details-marker {
 details.paper-card .card-foot {
   display: block;
   margin-top: 0.5rem;
-  font-size: 0.85rem;
+  font-size: 1rem;
 }
 
 details.paper-card .abs-hint::after {
@@ -463,20 +461,26 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
   color: var(--global-text-color-light);
 }
 
-/* Front page paper list: no cards, sections separated by deep-purple rules */
+/* Front page paper list: no cards; sections separated by larger Title Case headings and space */
 .home-papers {
   clear: both;
 }
 
-.home-papers .section-rule {
-  border: 0;
-  border-top: 1px solid var(--global-section-rule-color);
-  opacity: 1;
-  margin: 2.75rem 0 1.5rem;
+.home-papers {
+  margin-top: 3.25rem;
 }
 
 .home-papers h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-transform: none;
+  letter-spacing: 0;
+  color: var(--global-text-color);
   margin-bottom: 1.1rem;
+}
+
+.home-papers #working-papers {
+  margin-top: 3.75rem;
 }
 
 .home-papers details.paper-card {
