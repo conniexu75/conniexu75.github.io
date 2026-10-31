@@ -243,7 +243,7 @@ details.paper-card summary::-webkit-details-marker {
 /* card footer row: abstract hint + media coverage on one line */
 details.paper-card .card-foot {
   display: block;
-  margin-top: 0.5rem;
+  margin-top: 0.3rem;
   font-size: 1rem;
 }
 
@@ -259,7 +259,7 @@ details.paper-card[open] .abs-hint::after {
 details.paper-card .abstract-body {
   margin: 0 1.5rem;
   padding: 0.25rem 0 1.25rem;
-  text-align: left;
+  text-align: justify;
 }
 
 details.paper-card:hover,
@@ -303,10 +303,16 @@ div.paper-card:hover {
 }
 
 
-/* Left-aligned body text: even word spacing, no mid-word hyphen breaks */
+/* Justify body text everywhere, with hyphenation to avoid gappy spacing */
 p {
-  text-align: left;
-  hyphens: manual;
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* Tighter vertical rhythm for body copy */
+article p {
+  line-height: 1.5;
+  margin-bottom: 0.85rem;
 }
 /* Site font: Ysabeau */
 body {
@@ -462,10 +468,10 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
 
 .profile .more-info .profile-links {
   text-align: center;
-  margin-top: 1.1rem;
+  margin-top: 0.8rem;
   margin-bottom: 1rem;
   font-size: 0.95rem;
-  line-height: 1.8;
+  line-height: 1.6;
 }
 
 /* Square profile photo with softly rounded corners (image_circular: false) */
@@ -492,7 +498,7 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
   border: 0;
   border-top: 1px solid var(--global-section-rule-color);
   opacity: 1;
-  margin: 2.75rem 0 1.5rem;
+  margin: 2.1rem 0 1.1rem;
 }
 
 .home-papers h2 {
@@ -502,14 +508,18 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
   letter-spacing: 0;
   color: var(--global-text-color);
   margin-top: 0;
-  margin-bottom: 1.1rem;
+  margin-bottom: 0.8rem;
+}
+
+.home-papers summary {
+  line-height: 1.45;
 }
 
 .home-papers details.paper-card {
   background: none;
   border: none;
   border-radius: 0;
-  margin-bottom: 1.6rem;
+  margin-bottom: 1.15rem;
 }
 
 .home-papers details.paper-card summary {
