@@ -428,11 +428,32 @@ body.sticky-bottom-footer footer.sticky-bottom .container {
   }
 }
 
-/* [PDF] link after paper titles on the Research page */
+/* PDF button after paper titles: small outlined pill with a file icon, fills on hover */
 .pdf-link {
-  margin-left: 0.25em;
-  font-size: 0.85em;
+  display: inline-block;
+  vertical-align: 0.12em;
+  margin-left: 0.5em;
+  padding: 0.32em 0.7em;
+  border: 1px solid var(--global-theme-color);
+  border-radius: 999px;
+  color: var(--global-theme-color);
+  font-size: 0.68em;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  line-height: 1;
+  text-decoration: none !important;
   white-space: nowrap;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.pdf-link i {
+  margin-right: 0.4em;
+}
+
+/* the global a:hover keeps text lavender, which would vanish on the lavender fill */
+.pdf-link:hover {
+  background: var(--global-theme-color);
+  color: var(--global-bg-color) !important;
 }
 
 /* Email + [CV] links under the profile photo (more_info defaults to monospace) */
