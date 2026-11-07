@@ -8,7 +8,7 @@ middle_name:
 last_name: Xu
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-   Connie Xu is a PhD candidate in Health Policy and Economics at Harvard University studying the economics of science and health care innovation.
+   Connie Xu is a PhD candidate in Health Policy and Economics at Harvard University studying the economics of health care and science innovation.
 footer_text: 
 keywords: Connie Xu, health policy, health economics, economics of science, innovation, Harvard # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
