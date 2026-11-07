@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-I'm a Ph.D. candidate in health policy and economics at [Harvard University](https://healthpolicy.fas.harvard.edu/). I study the economics of science and health care, with a focus on innovation in the life sciences.
+I'm a Ph.D. candidate in health policy and economics at [Harvard University](https://healthpolicy.fas.harvard.edu/). I study the economics of health care and science, with a focus on innovation in the life sciences.
 
 **I am on the 2026–2027 job market.**
 
